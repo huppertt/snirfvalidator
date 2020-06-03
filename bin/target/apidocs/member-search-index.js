@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.sfnirs.snirfvalidate","c":"SNIRFvalidate","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.sfnirs.snirfvalidate","c":"SNIRFvalidate","l":"SNIRFvalidate()","url":"%3Cinit%3E()"}]
